@@ -12,7 +12,9 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Applications](#applications)
     - [Explorers](#explorers)
     - [Wallets](#wallets)
-- [Mining Pool](#mining-pool)
+- [Mining](#mining)
+  - [Mining Pool](#mining-pool)
+  - [Miners](#miners)
 
 ## Announcements & News
 - [Ironfish Discord](https://discord.gg/b98TkrDrec) - The official Ironfish Discord channel
@@ -26,8 +28,17 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Ironfish Explorer](https://explorer.ironfish.network/) - The official blockchain explorer for Ironfish
 ### Wallets
 - [Ironfish Wallet](https://github.com/iron-fish/wallet-app) - Electron-based Wallet App for Ironfish
-## Mining Pool
-The following is a curated list of public Ironfish mining pool.
+## Mining
+The following is a curated list of public Ironfish mining pool and mining software.
+### Mining Pool
 - [Official Pool](https://discord.com/channels/771503434028941353/953051680017117235) - The official Ironfish mining pool
 - [ZK.Work](https://zk.work/en/ironfish/start) - The ZK.Work Ironfish mining pool
 - [Hpool](https://www.hpool.in/) - The Hpool Ironfish mining pool
+### CPU Miners
+- [Official Miner](https://ironfish.network/docs/onboarding/miner-iron-fish) - The official Ironfish solo/pool miner
+- [zkwork_ironminer](https://github.com/6block/zkwork_ironminer) - Open source Rust implementation for Ironfish pool miner
+- [SRBMiner](https://github.com/doktor83/SRBMiner-Multi/releases/tag/1.0.8) - AMD miner provided by SRBMiner team
+### GPU Miners
+- [zkwork_gpu_ironminer](https://github.com/6block/ironfish-gpu-miner) - GPU miner provided by ZKWork team, works with ZKWork pool only
+- [hpool_gpu_ironminer](https://github.com/hpool-dev/ironfish-miner/releases) - GPU miner provided by Hpool team, works with Hpool only
+- [SRBMiner](https://github.com/doktor83/SRBMiner-Multi/releases/tag/1.0.8) - AMD GPU miner provided by SRBMiner team, works with ZKWork pool and Ironfish official pool
