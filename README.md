@@ -31,7 +31,6 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ## Mining
 The following is a curated list of public Ironfish mining pool and mining software.
 ### Mining Pool
-- [Official Pool](https://discord.com/channels/771503434028941353/953051680017117235) - The official Ironfish mining pool
 - [ZK.Work](https://zk.work/en/ironfish/start) - The ZK.Work Ironfish mining pool
 - [Hpool](https://www.hpool.in/) - The Hpool Ironfish mining pool
 ### CPU Miners
