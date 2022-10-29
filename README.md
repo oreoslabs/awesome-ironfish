@@ -33,6 +33,7 @@ The following is a curated list of public Ironfish mining pool and mining softwa
 ### Mining Pool
 - [ZK.Work](https://zk.work/en/ironfish/start) - The ZK.Work Ironfish mining pool
 - [Hpool](https://www.hpool.in/) - The Hpool Ironfish mining pool
+### Miners
 ### CPU Miners
 - [Official Miner](https://ironfish.network/docs/onboarding/miner-iron-fish) - The official Ironfish solo/pool miner
 - [zkwork_ironminer](https://github.com/6block/zkwork_ironminer) - Open source Rust implementation for Ironfish pool miner
