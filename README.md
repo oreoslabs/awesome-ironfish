@@ -26,6 +26,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ## Applications
 ### Explorers
 - [Ironfish Explorer](https://explorer.ironfish.network/) - The official blockchain explorer for Ironfish
+- [Oreoscan Explorer](http://www.oreoscan.info) - The Ironfish blockchain explorer by [oreolabs](https://github.com/oreoslabs).
 ### Wallets
 - [Ironfish Wallet](https://github.com/iron-fish/wallet-app) - Electron-based Wallet App for Ironfish
 ## Mining
