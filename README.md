@@ -8,6 +8,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Announcements & News](#announcements--news)
 - [Core Libraries](#core-libraries)
 - [Development Tools](#development-tools)
+  - [Wallet Tools](#wallet-tools)
   - [Rpc Provider](#rpc-provider)
 - [Applications](#applications)
     - [Explorers](#explorers)
@@ -21,6 +22,8 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ## Core Libraries
 - [Ironfish](https://github.com/iron-fish/ironfish) - A novel cryptocurrency focused on privacy and accessibility
 ## Development Tools
+### Wallet Tools
+- [Oreos-Rust](https://github.com/hairtail/oreos-rust) - An ironfish tool for account creation, transaction decryption
 ### Rpc Provider
 - [Oreos](https://www.npmjs.com/package/oreos) - An ironfish provider implementation and utilities in TypeScript
 ## Applications
@@ -34,6 +37,8 @@ The following is a curated list of public Ironfish mining pool and mining softwa
 ### Mining Pool
 - [ZK.Work](https://zk.work/en/ironfish/start) - The ZK.Work Ironfish mining pool
 - [Hpool](https://www.hpool.in/) - The Hpool Ironfish mining pool
+- [FlexPool](https://www.flexpool.io/) - The Flex Ironfish mining pool
+- [Herominers](https://ironfish.herominers.com/) - The Herominers mining pool
 ### Miners
 ### CPU Miners
 - [Official Miner](https://ironfish.network/docs/onboarding/miner-iron-fish) - The official Ironfish solo/pool miner
@@ -42,4 +47,5 @@ The following is a curated list of public Ironfish mining pool and mining softwa
 ### GPU Miners
 - [zkwork_gpu_ironminer](https://github.com/6block/ironfish-gpu-miner) - GPU miner provided by ZKWork team, works with ZKWork pool only
 - [hpool_gpu_ironminer](https://github.com/hpool-dev/ironfish-miner/releases) - GPU miner provided by Hpool team, works with Hpool only
-- [SRBMiner](https://github.com/doktor83/SRBMiner-Multi/releases/tag/1.0.8) - AMD GPU miner provided by SRBMiner team, works with ZKWork pool and Ironfish official pool
+- [SRBMiner](https://github.com/doktor83/SRBMiner-Multi/releases/tag/1.0.8) - GPU miner provided by SRBMiner team, works with ZKWork pool and Ironfish official pool
+- [BzMiner](https://github.com/bzminer/bzminer) - GPU miner provided by bzMiner team, works with stratum based pool
