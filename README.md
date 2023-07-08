@@ -32,6 +32,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Oreoscan Explorer](http://www.oreoscan.info) - The Ironfish blockchain explorer by [oreolabs](https://github.com/oreoslabs).
 ### Wallets
 - [Ironfish Wallet](https://github.com/iron-fish/wallet-app) - Electron-based Wallet App for Ironfish
+- [FoxWallet](https://foxwallet.com/) - Multi-chain Web3 Wallet
 ## Mining
 The following is a curated list of public Ironfish mining pool and mining software.
 ### Mining Pool
